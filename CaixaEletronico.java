@@ -1,3 +1,4 @@
+package LNPG_03_MODULARIZACAO;
 import java.util.Scanner;
 
 public class CaixaEletronico {
